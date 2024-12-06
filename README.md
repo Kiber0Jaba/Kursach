@@ -1,4 +1,4 @@
-<h2 align="center"> 🐹 Little Pet Shop</h2>
+<h2 align="center"> Приют для животных "Мяу-Во!"</h2>
 <p align="center">
   <a href="https://github.com/kiritoroo/little-pet-shop/issues">
     <img src="https://img.shields.io/github/issues/kiritoroo/little-pet-shop"/> 
@@ -10,18 +10,13 @@
     <img src="https://img.shields.io/github/stars/kiritoroo/little-pet-shop"/> 
 </p>
 
-# About
-Project for Web
+# О проекте
+Веб-приложение для курсового проекта
 
-<img src="https://raw.githubusercontent.com/kiritoroo/little-pet-shop/master/capture/capture.png" width="1000"></img>
-
-# Author 
-- > [Trung Le](https://github.com/kiritoroo/little-pet-shop)
-
-# Technology
+# Технологии
 * Spring Boot
 * Spring JPA
 * Lombok
-* MySQL
+* PostgresSQL
 * Thymeleaf
 * Tailwind CSS
